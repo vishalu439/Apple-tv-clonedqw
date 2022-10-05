@@ -3,10 +3,10 @@
 <p>
 This was a collaborative construct week project at Masai School.
 Goal behind the project was to create a clone of the Flipkrt website as close as possible to the original one with all the major functionalities of this website, such as User Authentication, User Details Management, Series & Shows gallery and carousels and Show Details.
-This project was built by a team of 6 developers in 5 Days. 
+This project was built by a team of 2 developers in 5 Days. 
 </p>
 
-* [Click Here](https://nameh-dhiman.github.io/Apple-TV-Clone-Project.github.io/ "Apple TV+ Project") to view the deployed website.
+* [Click Here](https://chipper-figolla-c54d51.netlify.app// "Apple TV+ Project") to view the deployed website.
 
 <p>
 Apple TV+ is an American subscription streaming service owned and operated by Apple Inc. 
@@ -53,9 +53,5 @@ ___
 
 ### Team
 ___
-* Nameh Dhiman
-* Nandkishor Dumare
-* Ankur Sharma
-* Shreenath Panchal
-* Ramya Shree
-* Sharukh Khan
+* Vishal Umrao
+ * Akash Tiwari
